@@ -55,19 +55,16 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
+  <a href="https://www.hackerrank.com/chungtrinh2k2" target="blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="trinhchung-hackkerrank"/>
+  </a>
   <a href="https://www.facebook.com/profile.php?id=100018371467341" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trinhchung-facebook" />
   </a>
   <a href="https://www.tiktok.com/@chung711522" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/tiktok.png" alt="trinhchung-tiktok" />
   </a>
-  <a href="https://www.hackerrank.com/chungtrinh2k2" target="blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="trinhchung-hackkerrank"/>
-  </a>
-  <a href="https://instagram.com/trinhchung" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trinhchung-instagram" />
-  </a>
-  <a href="mailto:trinhchung.official@gmail.com" target="top">
+  <a href="mailto:chungtrinh2k2@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trinhchung-email" />
   </a>
 </div>
@@ -79,4 +76,3 @@
 <a href="#" target="_blank">
   <img src="svg/trinhchung-quotes.svg" width="846" height="150" alt="trinhchung-official" />
 </a>
-
