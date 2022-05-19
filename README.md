@@ -3,7 +3,7 @@
   <img src="svg/trinhchung.svg" width="1200" alt="trungquandev-official" />
 </a>
  
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">SKILL IT</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -51,18 +51,18 @@
 
 <br>
 
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">CONTACT</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100018371467341" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trinhchung-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trinhchung-youtube" />
+  <a href="https://www.tiktok.com/@chung711522" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/tiktok.png" alt="trinhchung-tiktok" />
   </a>
-  <a href="https://www.linkedin.com/in/trinhchung" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trinhchung-linkedin" />
+  <a href="https://www.hackerrank.com/chungtrinh2k2" target="blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="trinhchung-hackkerrank"/>
   </a>
   <a href="https://instagram.com/trinhchung" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trinhchung-instagram" />
@@ -74,7 +74,7 @@
 
 <br>
 
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h2 align="center">My Favorites Quote </h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/trinhchung-quotes.svg" width="846" height="150" alt="trinhchung-official" />
